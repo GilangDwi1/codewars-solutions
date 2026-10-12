@@ -1,4 +1,5 @@
 # Codewars Solutions 🧠💻
+[![Codewars Badge](https://www.codewars.com/users/Worrys99/badges/large)](https://www.codewars.com/users/Worrys99)
 
 A collection of my Codewars solutions for practicing programming, algorithms, and problem-solving.
 
